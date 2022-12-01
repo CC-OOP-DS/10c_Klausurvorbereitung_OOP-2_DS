@@ -6,7 +6,7 @@ public class App {
 
 
      Test test = new Test("Grizabella", 29);
-
+    test.setName("Rüdiger");
      System.out.println(test.getName());
 
 
